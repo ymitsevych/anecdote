@@ -1,8 +1,8 @@
 # Anecdote
 Coding Task
 ## Description
-There is a database with anekdotes which have been tagged by keywords.
-Create an endpoint in scope of Rest API that recommends an anekdote of the day.
+There is a database with anecdotes which have been tagged by keywords.
+Create an endpoint in scope of Rest API that recommends an anecdote of the day.
 ## Requirement
 1. Use SQL(relational) DB type
 2. Symfony framework
