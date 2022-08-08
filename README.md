@@ -1,2 +1,2 @@
-# anekdote
+# anecdote
 Coding Task
